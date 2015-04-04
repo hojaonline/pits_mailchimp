@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-04-04T16:44:25Z" product-name="pits_mailchimp">
+		<header/>
+		<body>
+			<trans-unit id="tx_pitsmailchimp_domain_model_subscribe">
+				<source>Subscribe</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_mailsetting">
+				<source>Mailsetting</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_mailsetting.listname">
+				<source>Listname</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_mailsetting.apikey">
+				<source>Apikey</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_mailsetting.listid">
+				<source>Listid</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_mailsetting.userpid">
+				<source>Userpid</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_mailsetting.syncdetails">
+				<source>Syncdetails</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_mailsetting.chimpusers">
+				<source>Chimpusers</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_chimpusers">
+				<source>Chimpusers</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_chimpusers.firstname">
+				<source>Firstname</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_chimpusers.lastname">
+				<source>Lastname</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_chimpusers.email">
+				<source>Email</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_settings">
+				<source>Settings</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_settings.property">
+				<source>Property</source>
+			</trans-unit>
+			<trans-unit id="tx_pitsmailchimp_domain_model_settings.value">
+				<source>Value</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

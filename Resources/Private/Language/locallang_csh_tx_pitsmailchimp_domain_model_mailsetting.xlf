@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-04-04T16:44:25Z" product-name="pits_mailchimp">
+		<header/>
+		<body>
+			<trans-unit id="listname.description">
+				<source>listname</source>
+			</trans-unit>
+			<trans-unit id="apikey.description">
+				<source>apikey</source>
+			</trans-unit>
+			<trans-unit id="listid.description">
+				<source>listid</source>
+			</trans-unit>
+			<trans-unit id="userpid.description">
+				<source>userpid</source>
+			</trans-unit>
+			<trans-unit id="syncdetails.description">
+				<source>syncdetails</source>
+			</trans-unit>
+			<trans-unit id="chimpusers.description">
+				<source>chimpusers</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
